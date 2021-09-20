@@ -105,9 +105,9 @@ immediately following the course, and/or a few months after the course.
 **Recommended Bibliography:** Students are encouraged to consult the following
 sources on their own:
 
-1. Hogg, V.H. and Craig, A.T. (1995). \textit{Introduction to Mathematical Statistics}. New Jersey : Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
-2. Hogg, R. V., Tanis, E. A., and Zimmerman, D. L. (2010). \textit{Probability and Statistical Inference}. Upper Saddle River, NJ, USA:: Pearson/Prentice Hall. (Available on Ninova)
-3. DeGroot., M.H. and Schervish, M.J. (2012). \textit{Probability and Statistics}. Boston : Addison-Wesley, c2012.
+1. Hogg, V.H. and Craig, A.T. (1995). \textit{Introduction to Mathematical Statistics}. New Jersey: Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
+2. Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). \textit{Probability and Statistical Inference}. Upper Saddle River, NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
+3. DeGroot., M.H. and Schervish, M.J. (2012). \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
 [Hard copy available at ITU Mustafa Inan Library with CALL #QA273 .D445 2012].  (Available on Ninova)
 
  
@@ -148,9 +148,9 @@ Please read the information below as a reference for how this class will be cond
 **Grading Policy:**
 
 - Assessment Method    \quad      \quad \quad                Total Contribution to Final Grade:
-  - 2 quizzes each 10%,            \quad \quad \quad            20%,
-  - 1 midterm exam                                 \quad \quad \quad       40%,
-  - 1 final exam                               \quad \quad \quad           40%.
+  - 2 quizzes each 10%,            
+  - 1 midterm exam                           40%,
+  - 1 final exam                                   40%.
    
 - **Midterm date**: December 2, 2021 during the lecture hour in class. 
 - Quizzes will be held during the lecture hours and the dates will be announced at well in advance. No make-up for quizzes.
