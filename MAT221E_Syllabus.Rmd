@@ -3,14 +3,14 @@ title: 'MAT221E: Probability Theory'
 fontsize: 12pt
 date: "Fall 2021"
 output:
+  html_document:
+    df_print: paged
+    fontfamily: mathpazo
+  word_document: default
   pdf_document:
     fig_caption: yes
     keep_tex: yes
     latex_engine: pdflatex
-  word_document: default
-  html_document:
-    df_print: paged
-    fontfamily: mathpazo
 header-includes: \linespread{1.05}
                  \usepackage{xcolor} #enable to use xcolor package to color the text
 geometry: margin=1in
@@ -57,7 +57,7 @@ derivatives, integration, infinite series) to assess the probability of an event
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
 Week 1. Experiments and events, algebra of events, sigma-algebra of events, probability
-measure on a sigma-algebra, sigma algebra of borel sets, Kolmogorov axioms, and finite sample spaces.
+measure on a sigma-algebra, Kolmogorov axioms, and finite sample spaces.
 
 Week 2. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram. 
 
@@ -73,7 +73,7 @@ Week 7. Continuous random variables: Probability density functions, Uniform, Nor
 
 Week 8. ITU Fall Break
 
-Week 9.  **Midterm on December 2, 2021 during lecture hour and place.**
+Week 9.  __**Midterm on December 2, 2021 during lecture hour and place.**__
 
 Week 10. Moments: Summaries of a distribution, sample moments, moment generating functions. 
 
@@ -102,7 +102,7 @@ immediately following the course, and/or a few months after the course.
 
 **Textbook:**  All lecture materials. Lecture materials (notes, assignments, etc) will be uploaded on \href{Ninova}{https://ninova.itu.edu.tr}.
 
-**Course Workload:** 2 quizzes, 1 midterm exam, and 1 final exam  (see the grading policy below). 
+**Course Workload:** 2 __quizzes__, 1 midterm exam, and 1 final exam  (see the grading policy below). 
 
 **Recommended Bibliography:** Students are encouraged to consult the following
 sources on their own:
@@ -155,26 +155,24 @@ Please read the information below as a reference for how this class will be cond
   - 1 final exam                                   40%.
    
 - **Midterm date**: December 2, 2021 during the lecture hour in class. 
-- Quizzes will be held during the lecture hours and the dates will be announced at well in advance. No make-up for quizzes.
 - **Student studies, namely, quizzes and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
 - Please see an example for **a good homework** on Ninova.
 - Please read the general advice given at:
 
   http://ma117.math.metu.edu.tr/course-info/general-advice/.
 
-**Late Submission Policy:** There are **NO** make-ups for missed quizzes. 
+**Late Submission Policy:** There are **NO** make-ups for missed quizzes.
 
-**Final Exam Attendance Policy:** At least 30 points from in-semester studies (e.g., (Midterm * 0.4 + Quiz 1 * 0.1 + Quiz 2 * 0.1) greater than or equal to 30)
+**Final Exam Attendance Policy:** At least 20% of in-semester studies.
 
 **Make-Up Exam Policy:** The students who miss either midterm exam or final exam due to a health problem
-can take a make-up exam as long as they have a valid medical report taken on the exam day. The medical report
-should be handed in immediately (within two days of its expiration). 
+can take a make-up exam as long as they have a valid medical report taken on the exam day. The medical report should be handed in immediately (within two days of its expiration). 
+
 
 **Class Attendance Policy:** 
 
-The students are encouraged to attend classes, 
-whereas the attendance is not mandatory in Fall 2021 semester due to Covid-19 pandemic. 
-For that reason, the student is deemed responsible to manage his/her absences.
+The students must attend at least 70% of classes and
+are deemed responsible to manage his/her absences.
 
 **Participation Policy:** 
 
