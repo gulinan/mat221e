@@ -3,14 +3,14 @@ title: 'MAT221E: Probability Theory'
 fontsize: 12pt
 date: "Fall 2021"
 output:
-  html_document:
-    df_print: paged
-    fontfamily: mathpazo
-  word_document: default
   pdf_document:
     fig_caption: yes
     keep_tex: yes
     latex_engine: pdflatex
+  word_document: default
+  html_document:
+    df_print: paged
+    fontfamily: mathpazo
 header-includes: \linespread{1.05}
                  \usepackage{xcolor} #enable to use xcolor package to color the text
 geometry: margin=1in
@@ -43,7 +43,7 @@ an online appointment via Zoom.
 
 **Classroom:** Room D201 @ Faculty of Arts and Sciences.
 
-**Covid-19 update** Wearing mask is required in shared spaces for all individuals, including those who are fully vaccinated. For a full list of regulations, please follow ITU main page. 
+**Covid-19 update:** Wearing mask is required in shared spaces for all individuals, including those who are fully vaccinated. For a full list of regulations, please follow ITU main page. 
 
 **Course Objectives:** This course aims to: 
 
@@ -73,9 +73,9 @@ Week 7. Continuous random variables: Probability density functions, Uniform, Nor
 
 Week 8. ITU Fall Break
 
-Week 9.  __**Midterm on December 2, 2021 during lecture hour and place.**__
+Week 9.  Moments: Summaries of a distribution, sample moments, moment generating functions. 
 
-Week 10. Moments: Summaries of a distribution, sample moments, moment generating functions. 
+Week 10. **Midterm on December 9, 2021 during lecture hour and place.**
 
 Week 11. Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.
 
@@ -154,7 +154,7 @@ Please read the information below as a reference for how this class will be cond
   - 1 midterm exam                           40%,
   - 1 final exam                                   40%.
    
-- **Midterm date**: December 2, 2021 during the lecture hour in class. 
+- **Midterm date**: December 9, 2021 during the lecture hour in class. 
 - **Student studies, namely, quizzes and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
 - Please see an example for **a good homework** on Ninova.
 - Please read the general advice given at:
