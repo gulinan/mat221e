@@ -57,7 +57,7 @@ derivatives, integration, infinite series) to assess the probability of an event
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
 Week 1. Experiments and events, algebra of events, sigma-algebra of events, probability
-measure on a sigma-algebra, Kolmogorov axioms, and finite sample spaces.
+measure on a sigma-algebra, and Kolmogorov axioms.
 
 Week 2. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram. 
 
@@ -107,10 +107,11 @@ immediately following the course, and/or a few months after the course.
 **Recommended Bibliography:** Students are encouraged to consult the following
 sources on their own:
 
-1. Hogg, V.H. and Craig, A.T. (1995). \textit{Introduction to Mathematical Statistics}. New Jersey: Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
-2. Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). \textit{Probability and Statistical Inference}. Upper Saddle River, NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
-3. DeGroot., M.H. and Schervish, M.J. (2012). \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
+1. DeGroot., M.H. and Schervish, M.J. (2012). \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
 [Hard copy available at ITU Mustafa Inan Library with CALL #QA273 .D445 2012].  (Available on Ninova)
+2. Hogg, V.H. and Craig, A.T. (1995). \textit{Introduction to Mathematical Statistics}. New Jersey: Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
+3. Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). \textit{Probability and Statistical Inference}. Upper Saddle River, NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
+4. Miller, I. and Miller, M. (2004). John E. \textit{Freund's mathematical statistics with applications}. Upper Saddle River, NJ. [Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004].  (More recent version is available on Ninova)
 
  
 **Off-Campus Access to the ITU Library E-sources:**  
@@ -214,4 +215,10 @@ Furthermore, you are also invited to contact the office of students with special
 
 http://engelsiz.itu.edu.tr/.
 
+**ITU Distance Education Policy:** 
 
+Sharing the lecture recordings or its piece with third parties is strictly forbidden. Furthermore, the recordings are subject to investigation by the authorities as needed. For that reason, be sure that you behave (both orally and verbally) responsibly in this virtual class. Please visit:
+
+https://online.itu.edu.tr/,
+
+for more information on distance education regulations at ITU.

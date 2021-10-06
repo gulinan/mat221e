@@ -5,14 +5,17 @@
 \documentclass[
   12pt,
 ]{article}
+\title{MAT221E: Probability Theory}
+\author{}
+\date{\vspace{-2.5em}Fall 2021}
+
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
-  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -61,13 +64,9 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \linespread{1.05} \usepackage{xcolor}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
-
-\title{MAT221E: Probability Theory}
-\author{}
-\date{\vspace{-2.5em}Fall 2021}
 
 \begin{document}
 \maketitle
@@ -136,8 +135,7 @@ schedule given below. However, weekly class schedules are subject to
 change depending on the progress we make as a class.
 
 Week 1. Experiments and events, algebra of events, sigma-algebra of
-events, probability measure on a sigma-algebra, Kolmogorov axioms, and
-finite sample spaces.
+events, probability measure on a sigma-algebra, and Kolmogorov axioms.
 
 Week 2. Counting methods, combinatorial methods, product rule,
 permutation, combination, binomial expansion, multinomial expansion,
@@ -220,6 +218,11 @@ the following sources on their own:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
+  DeGroot., M.H. and Schervish, M.J. (2012).
+  \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
+  {[}Hard copy available at ITU Mustafa Inan Library with CALL \#QA273
+  .D445 2012{]}. (Available on Ninova)
+\item
   Hogg, V.H. and Craig, A.T. (1995).
   \textit{Introduction to Mathematical Statistics}. New Jersey:
   Prentice-Hall International. {[}Hard copy available at ITU Mustafa
@@ -229,10 +232,11 @@ the following sources on their own:
   \textit{Probability and Statistical Inference}. Upper Saddle River,
   NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
 \item
-  DeGroot., M.H. and Schervish, M.J. (2012).
-  \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
-  {[}Hard copy available at ITU Mustafa Inan Library with CALL \#QA273
-  .D445 2012{]}. (Available on Ninova)
+  Miller, I. and Miller, M. (2004). John E.
+  \textit{Freund's mathematical statistics with applications}. Upper
+  Saddle River, NJ. {[}Hard copy available at ITU Mustafa Inan Library
+  Reserve with CALL \#QA276 .M55 2004{]}. (More recent version is
+  available on Ninova)
 \end{enumerate}
 
 \textbf{Off-Campus Access to the ITU Library E-sources:}
@@ -380,5 +384,17 @@ needs. Furthermore, you are also invited to contact the office of
 students with special needs at:
 
 \url{http://engelsiz.itu.edu.tr/}.
+
+\textbf{ITU Distance Education Policy:}
+
+Sharing the lecture recordings or its piece with third parties is
+strictly forbidden. Furthermore, the recordings are subject to
+investigation by the authorities as needed. For that reason, be sure
+that you behave (both orally and verbally) responsibly in this virtual
+class. Please visit:
+
+\url{https://online.itu.edu.tr/},
+
+for more information on distance education regulations at ITU.
 
 \end{document}
