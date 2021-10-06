@@ -107,17 +107,17 @@ immediately following the course, and/or a few months after the course.
 **Recommended Bibliography:** Students are encouraged to consult the following
 sources on their own:
 
-1. DeGroot., M.H. and Schervish, M.J. (2012). \textit{Probability and Statistics}. Boston: Addison-Wesley, c2012.
+1. DeGroot., M.H. and Schervish, M.J. (2012). Probability and Statistics. Boston: Addison-Wesley, c2012.
 [Hard copy available at ITU Mustafa Inan Library with CALL #QA273 .D445 2012].  (Available on Ninova)
-2. Hogg, V.H. and Craig, A.T. (1995). \textit{Introduction to Mathematical Statistics}. New Jersey: Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
-3. Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). \textit{Probability and Statistical Inference}. Upper Saddle River, NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
-4. Miller, I. and Miller, M. (2004). John E. \textit{Freund's mathematical statistics with applications}. Upper Saddle River, NJ. [Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004].  (More recent version is available on Ninova)
+2. Hogg, V.H. and Craig, A.T. (1995). Introduction to Mathematical Statistics. New Jersey: Prentice-Hall International.  [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].  (Available on Ninova)
+3. Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010).Probability and Statistical Inference. Upper Saddle River, NJ, USA: Pearson/Prentice Hall. (Available on Ninova)
+4. Miller, I. and Miller, M. (2004). John E. Freund's mathematical statistics with applications. Upper Saddle River, NJ. [Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004].  (More recent version is available on Ninova)
 
  
 **Off-Campus Access to the ITU Library E-sources:**  
 
 Access to library e-sources remotely
-is possible with a library account. Users without a library account should apply for the library registration at \href{Library register}{https://kutuphane.itu.edu.tr/en/register}. After setting the web configurations given at \href{Proxy}{https://kutuphane.itu.edu.tr/en/services \linebreak /web-browser-proxy-settings} only once on your computer, you will able to have an access to ITU Library e-sources.
+is possible with a library account. Users without a library account should apply for the library registration at https://kutuphane.itu.edu.tr/en/register. After setting the web configurations given at https://kutuphane.itu.edu.tr/en/servicesweb-browser-proxy-settings only once on your computer, you will able to have an access to ITU Library e-sources.
 
 
 **Selected Important Dates:**
