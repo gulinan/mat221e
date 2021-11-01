@@ -3,14 +3,14 @@ title: 'MAT221E: Probability Theory'
 fontsize: 12pt
 date: "Fall 2021"
 output:
+  html_document:
+    df_print: paged
+    fontfamily: mathpazo
+  word_document: default
   pdf_document:
     fig_caption: yes
     keep_tex: yes
     latex_engine: pdflatex
-  word_document: default
-  html_document:
-    df_print: paged
-    fontfamily: mathpazo
 header-includes: \linespread{1.05}
                  \usepackage{xcolor} #enable to use xcolor package to color the text
 geometry: margin=1in
@@ -52,42 +52,28 @@ an online appointment via Zoom.
 3.	To develop critical thinking skills and abilities to apply calculus techniques (i.e., limits,
 derivatives, integration, infinite series) to assess the probability of an event.
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 
 **Course Tentative Plan**: We will closely follow the weekly schedule given below.
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Experiments and events, algebra of events, sigma-algebra of events, probability
-measure on a sigma-algebra, and Kolmogorov axioms.
-
-Week 2. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram. 
-
-Week 3. Conditional probability, Bayes' rule, the law of total probability, independence of events.
-
-Week 4. Random variables and their distributions: Random variables, distributions and probability mass functions, Bernoulli, Binomial, Hypergeometric, and discrete uniform distributions.
-
-Week 5. Cumulative distribution function, functions of random variables, independence of random variables.
-
-Week 6. Definition of Expectation, Special expectations: mean and variance. Geometric, Negative Binomial, and Poisson distributions.
-
-Week 7. Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.
-
-Week 8. ITU Fall Break
-
-Week 9.  Moments: Summaries of a distribution, sample moments, moment generating functions. 
-
-Week 10. **Midterm on December 9, 2021 during lecture hour and place.**
-
-Week 11. Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.
-
-Week 12. Transformations: Change of variables, convolutions, Beta and Gamma distributions.
-
-Week 13. Marginal and conditional density functions, independent random variables.
-
-Week 14. Conditional expectation. Conditional variance.
-
-Week 15. Inequalities. Limit theorems: law of large numbers and central limit theorem. Slutsky's theorem.
-Chi-square, Student-t, and F distributions.
-
+| **Week**  | **Topic**         |  <a href="https://github.com/"><i class="fab fa-github"></i></a> | 
+| :---:     | :-----------------|:------:|
+| 1         | Experiments and events, algebra of events, sigma-algebra of events, probability measure on a sigma-algebra, and Kolmogorov axioms. | |
+| 2         | Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.  | |
+| 3         | Conditional probability, Bayes' rule, the law of total probability, independence of events.  | |
+| 4         | Random variables and their distributions: Random variables, distributions and probability mass functions, Bernoulli, Binomial, Hypergeometric, and discrete uniform distributions.  | |
+| 5 | Cumulative distribution function, functions of random variables, independence of random variables.  | [🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing)|
+| 6 | Definition of Expectation, Special expectations: mean and variance. Geometric, Negative Binomial, and Poisson distributions.  | |
+| 7 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.  | |
+| 8 | ITU Fall Break.  | |
+| 9 | Moments: Summaries of a distribution, sample moments, moment generating functions.  | |
+| 10 | **Midterm on December 9, 2021 during lecture hour and place.**  | |
+| 11 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.  | |
+| 12 | Transformations: Change of variables, convolutions, Beta and Gamma distributions.  | |
+| 13 | Marginal and conditional density functions, independent random variables.  | |
+| 14 | Conditional expectation. Conditional variance.  | |
+| 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. Slutsky's theorem.  Chi-square, Student-t, and F distributions. | |
 
 **Student Learning Outcomes:** A student who completed this course successfully is expected to: 
 
