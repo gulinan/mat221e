@@ -59,20 +59,20 @@ However, weekly class schedules are subject to change depending on the progress 
 
 | **Week**  | **Topic**         |  <a href="https://github.com/"><i class="fab fa-github"></i></a> | 
 | :---:     | :-----------------|:------:|
-| 1         | Experiments and events, algebra of events, sigma-algebra of events, probability measure on a sigma-algebra, and Kolmogorov axioms. | |
-| 2         | Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.  | |
-| 3         | Conditional probability, Bayes' rule, the law of total probability, independence of events.  | |
-| 4         | Random variables and their distributions: Random variables, distributions and probability mass functions, Bernoulli, Binomial, Hypergeometric, and discrete uniform distributions.  | |
-| 5 | Cumulative distribution function, functions of random variables, independence of random variables.  | [🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing)|
-| 6 | Definition of Expectation, Special expectations: mean and variance. Geometric, Negative Binomial, and Poisson distributions.  | |
-| 7 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.  | |
+| 1         | Random experiments, sample spaces, and events, and set operations. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.
+| 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).   | |
+| 3         | Conditional probability, multiplication rule, independence of events, extension to multiple events. | |
+| 4         | Bayes' rule, and the law of total probability. | [Reading assignment](https://www.theguardian.com/world/2021/apr/18/obscure-maths-bayes-theorem-reliability-covid-lateral-flow-tests-probability)|
+| 5         | Random variables, distributions and probability mass functions, cumulative distribution function. Definition of Expectation, Special expectations: mean and variance.  | [🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing) |
+| 6 | Bernoulli, Binomial, Hypergeometric, and discrete uniform distributions.  | |
+| 7 | Geometric, Negative Binomial, and Poisson distributions.  | |
 | 8 | ITU Fall Break.  | |
-| 9 | Moments: Summaries of a distribution, sample moments, moment generating functions.  | |
-| 10 | **Midterm on December 9, 2021 during lecture hour and place.**  | |
-| 11 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.  | |
-| 12 | Transformations: Change of variables, convolutions, Beta and Gamma distributions.  | |
-| 13 | Marginal and conditional density functions, independent random variables.  | |
-| 14 | Conditional expectation. Conditional variance.  | |
+| 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.  | |
+| 10 | Moments: Summaries of a distribution, sample moments, moment generating functions.  | |
+| 11 | **Midterm on December 9, 2021 during lecture hour and place.**  | |
+| 12 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.  | |
+| 13 | Transformations: Change of variables, convolutions, Beta and Gamma distributions.  | |
+| 14 | Marginal and conditional density functions, independent random variables. Conditional expectation. Conditional variance. | |
 | 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. Slutsky's theorem.  Chi-square, Student-t, and F distributions. | |
 
 **Student Learning Outcomes:** A student who completed this course successfully is expected to: 
