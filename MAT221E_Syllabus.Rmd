@@ -62,7 +62,7 @@ However, weekly class schedules are subject to change depending on the progress 
 | 1         | Random experiments, sample spaces, and events, and set operations. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.
 | 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).   | |
 | 3         | Conditional probability, multiplication rule, independence of events, extension to multiple events. | |
-| 4         | Bayes' rule, and the law of total probability. | [Reading assignment](https://www.theguardian.com/world/2021/apr/18/obscure-maths-bayes-theorem-reliability-covid-lateral-flow-tests-probability)|
+| 4         | Bayes' theorem and the law of total probability. | [Reading assignment](https://www.theguardian.com/world/2021/apr/18/obscure-maths-bayes-theorem-reliability-covid-lateral-flow-tests-probability)|
 | 5         | Random variables, distributions and probability mass functions, cumulative distribution function. Definition of Expectation, Special expectations: mean and variance.  | [🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing) |
 | 6 | Bernoulli, Binomial, Hypergeometric, and discrete uniform distributions.  | |
 | 7 | Geometric, Negative Binomial, and Poisson distributions.  | |
