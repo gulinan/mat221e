@@ -57,15 +57,15 @@ derivatives, integration, infinite series) to assess the probability of an event
 **Course Tentative Plan**: We will closely follow the weekly schedule given below.
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-| **Week**  | **Topic**                  |  <a href="https://github.com/"><i class="fab fa-github"></i></a> | History| <br>Additional Documents|
-| :-----:   |:-------------------------|:---:|:---:|:---:|
+| **Week**  | **Topic**                |  History| <a href="https://github.com/"><i class="fab fa-github"></i></a> | <br>Additional Documents|
+| :-----:   |:-------------------------|:---|:---:|:---:|
 | 1         | Random experiments, sample spaces, and events, and set operations. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.| | | |
-| 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).| | [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) | |
+| 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).| [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) | | |
 | 3         | Conditional probability, multiplication rule, independence of events, extension to multiple events.| | | |
-| 4         | Bayes' theorem and the law of total probability.| | [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) | [Reading assignment](https://www.theguardian.com/world/2021/apr/18/obscure-maths-bayes-theorem-reliability-covid-lateral-flow-tests-probability) |
-| 5         | Random variables, distributions and probability mass functions, cumulative distribution function. | [🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing) | | |
-| 6 | Definition of Expectation, Special expectations: mean and variance. Special discrete distributions: Bernoulli, and Binomial distributions.  | [🔗](https://colab.research.google.com/drive/1nDe0O7LgRs9OKHjESBWjzdeiVdxSMuED?usp=sharing)| [Jacob (James) Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) | |
-| 7 | Special discrete distributions: Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. **Quiz I during lecture hour.** |[🔗](https://colab.research.google.com/drive/1PvczfQSX8_YuyLqjqIFrOg0b3yJtVErZ?usp=sharing)| [Siméon Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)| [Quiz I](docs/Quiz_I.pdf) |
+| 4         | Bayes' theorem and the law of total probability.| [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) | |[Reading assignment](https://www.theguardian.com/world/2021/apr/18/obscure-maths-bayes-theorem-reliability-covid-lateral-flow-tests-probability) | 
+| 5         | Random variables, distributions and probability mass functions, cumulative distribution function. | |[🔗](https://colab.research.google.com/drive/1G4hPDOpq_9YRMIyST8sr_UMBLF6ythhC?usp=sharing)  | |
+| 6 | Definition of Expectation, Special expectations: mean and variance. Special discrete distributions: Bernoulli, and Binomial distributions.  | [Jacob (James) Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) |  [🔗](https://colab.research.google.com/drive/1nDe0O7LgRs9OKHjESBWjzdeiVdxSMuED?usp=sharing)| |
+| 7 | Special discrete distributions: Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. **Quiz I during lecture hour.** |[Siméon Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)| |[🔗](https://colab.research.google.com/drive/1PvczfQSX8_YuyLqjqIFrOg0b3yJtVErZ?usp=sharing)| [Quiz I](docs/Quiz_I.pdf) | 
 | 8 | ITU Fall Break.  | | |
 | 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.| | | |
 | 10 | Moments: Summaries of a distribution, sample moments, moment generating functions. | | | |
