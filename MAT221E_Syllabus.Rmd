@@ -68,7 +68,7 @@ However, weekly class schedules are subject to change depending on the progress 
 | 7 | Special discrete distributions: Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. **Quiz I during lecture hour.** |[Siméon Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)| [🔗](https://colab.research.google.com/drive/1PvczfQSX8_YuyLqjqIFrOg0b3yJtVErZ?usp=sharing) | [Quiz I](docs/Quiz_I.pdf) | 
 | 8 | ITU Fall Break.  | | |
 | 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.| | | |
-| 10 | **Midterm on December 9, 2021 during lecture hour and place.** | | | |
+| 10 | **Midterm on December 9, 2021 during lecture hour.** | | | |
 | 11 | Moments: Summaries of a distribution, sample moments, moment generating functions. | | | |
 | 12 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution. | | | |
 | 13 | Transformations: Change of variables, convolutions, Beta and Gamma distributions.| | | |
