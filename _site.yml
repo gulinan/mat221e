@@ -1,0 +1,16 @@
+name: "Deneme"
+title: "MAT221E"
+description: |
+  MAT221E
+output_dir: "_site"
+navbar:
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+output: 
+  distill::distill_article:
+    toc: true
+    number_sections: true
+    toc_depth: 4
+    code_folding: true
