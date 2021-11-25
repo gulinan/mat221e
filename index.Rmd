@@ -43,7 +43,7 @@ derivatives, integration, infinite series) to assess the probability of an event
 **Course Tentative Plan**: We will closely follow the weekly schedule given below.
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-| **Week**  | **Topic**                |  History| <a href="https://github.com/"><i class="fab fa-github"></i></a> | <br>Additional Documents|
+| **Week**  | **Topic**                |  History| Python/Colab | <br>Additional Documents|
 | :-----:   |:-------------------------|:---|:---:|:---:|
 | 1         | Random experiments, sample spaces, and events, and set operations. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.| | | |
 | 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).| [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) | | |
