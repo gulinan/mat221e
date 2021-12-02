@@ -53,7 +53,7 @@ However, weekly class schedules are subject to change depending on the progress 
 | 6 | Definition of Expectation, Special expectations: mean and variance. Special discrete distributions: Bernoulli, and Binomial distributions.  | [Jacob (James) Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) |  [🔗](https://colab.research.google.com/drive/1nDe0O7LgRs9OKHjESBWjzdeiVdxSMuED?usp=sharing)| |
 | 7 | Special discrete distributions: Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. **Quiz I during lecture hour.** |[Siméon Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)| [🔗](https://colab.research.google.com/drive/1PvczfQSX8_YuyLqjqIFrOg0b3yJtVErZ?usp=sharing) | [Quiz I](Quiz_I.pdf) | 
 | 8 | ITU Fall Break.  | | |
-| 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.| | | |
+| 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.| | | [Histograms and Density Plots](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)|
 | 10 | **Midterm on December 9, 2021 during lecture hour.** | | | |
 | 11 | Moments: Summaries of a distribution, sample moments, moment generating functions. | | | |
 | 12 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution. | | | |
