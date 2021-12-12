@@ -53,12 +53,13 @@ However, weekly class schedules are subject to change depending on the progress 
 | 6 | Definition of Expectation, Special expectations: mean and variance. Special discrete distributions: Bernoulli, and Binomial distributions.  | [Jacob (James) Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) |  [🔗](https://colab.research.google.com/drive/1nDe0O7LgRs9OKHjESBWjzdeiVdxSMuED?usp=sharing)| |
 | 7 | Special discrete distributions: Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. **Quiz I during lecture hour.** |[Siméon Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)| [🔗](https://colab.research.google.com/drive/1PvczfQSX8_YuyLqjqIFrOg0b3yJtVErZ?usp=sharing) | [Quiz I](Quiz_I.pdf) | 
 | 8 | ITU Fall Break.  | | |
-| 9 | Continuous random variables: Probability density functions, Uniform, Normal and Exponential distributions.| | | [Histograms and Density Plots](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)|
+| 9 | Continuous random variables: Probability density functions, cumulative distribution function, expectation, variance, percentiles, median.| | | [Histograms and Density Plots](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)|
 | 10 | **Midterm on December 9, 2021 during lecture hour.** | | | |
-| 11 | Moments: Summaries of a distribution, sample moments, moment generating functions. | | | |
-| 12 | Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution. | | | |
-| 13 | Transformations: Change of variables, convolutions, Beta and Gamma distributions.| | | |
-| 14 | Marginal and conditional density functions, independent random variables. Conditional expectation. Conditional variance.| | | |
+| 11 | Special continuous distributions: Uniform, Gamma, Exponential, and Normal distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)| | [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
+| 12 | Joint distributions: Joint, marginal, and conditional distributions.  | | | |
+| 12.5 | Conditional expectation. Conditional variance. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.  **Additional class which is missed due to Midterm**. | | | |
+| 13 | Transformations: Change of variables, convolutions, Beta distribution.| | | |
+| 14 | Moments: Summaries of a distribution, sample moments, moment generating functions. | | | |
 | 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. Slutsky's theorem.  Chi-square, Student-t, and F distributions.| | | |
 
 **Student Learning Outcomes:** A student who completed this course successfully is expected to: 
