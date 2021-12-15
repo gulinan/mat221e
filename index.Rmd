@@ -43,8 +43,8 @@ derivatives, integration, infinite series) to assess the probability of an event
 **Course Tentative Plan**: We will closely follow the weekly schedule given below.
 However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-| **Week**  | **Topic**                |  History| Python/Colab | <br>Additional Documents|
-| :-----:   |:-------------------------|:-------|:------:|:-------:|
+| **Week**  | **Topic**                           |  History| Python/Colab | <br>Additional Documents|
+| :-----:   |:------------------------------------|:------------------|:------:|:-------:|
 | 1         | Random experiments, sample spaces, and events, and set operations. Counting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.| | | |
 | 2         | Algebra of events, sigma-algebra of events, Borel sets, probability measure on a sigma-algebra. Kolmogorov axioms and related corollaries (with proofs).| [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) | | |
 | 3         | Conditional probability, multiplication rule, independence of events, extension to multiple events.| | | |
@@ -55,7 +55,7 @@ However, weekly class schedules are subject to change depending on the progress 
 | 8 | ITU Fall Break.  | | |
 | 9 | Continuous random variables: Probability density functions, cumulative distribution function, expectation, variance, percentiles, median.| | | [Histograms and Density Plots](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)|
 | 10 | **Midterm on December 9, 2021 during lecture hour.** | | | |
-| 11 | Special continuous distributions: Uniform, Gamma, Exponential, and Normal distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)| | [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
+| 11 | Special continuous distributions: Uniform, Gamma, Exponential, and Normal distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), [History of Random Numbers](https://tashian.com/articles/a-brief-history-of-random-numbers/)| [🔗](https://colab.research.google.com/drive/1cEV7oTgfNUfxtuJae7PYrb2TWtqGfDP4?usp=sharing)| [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
 | 12 | Joint distributions: Joint, marginal, and conditional distributions.  | | | |
 | 12.5 | Conditional expectation. Conditional variance. Covariance and correlation. Multinomial distribution. Multivariate Normal distribution.  **Additional class which is missed due to Midterm**. | | | |
 | 13 | Transformations: Change of variables, convolutions, Beta distribution.| | | |
