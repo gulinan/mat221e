@@ -55,12 +55,12 @@ However, weekly class schedules are subject to change depending on the progress 
 | 8 | ITU Fall Break.  | | |
 | 9 | Continuous random variables: Probability density functions, cumulative distribution function, expectation, variance, percentiles, median.| | | [Histograms and Density Plots](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)|
 | 10 | **Midterm on December 9, 2021 during lecture hour.** | | | |
-| 11 | Special continuous distributions: Normal distribution, Normal approx. to Binomial, Gamma, Exponential, Chi-square, and Uniform distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), [History of Random Numbers](https://tashian.com/articles/a-brief-history-of-random-numbers/)| [🔗](https://colab.research.google.com/drive/1cEV7oTgfNUfxtuJae7PYrb2TWtqGfDP4?usp=sharing)| [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
-| 12 | Joint distributions: Joint and marginal distributions. Independent r.v.s. Multinomial distribution. Multivariate Normal distribution. | | | |
-| 12.5 |Covariance and correlation. Conditional distributions. Conditional expectation. Conditional variance.   **Additional class which is missed due to Midterm**. | | | |
-| 13 | Transformations: Change of variables, sum of two random variables, convolutions.| | | |
-| 14 | Moments: Moment generating functions, summaries of a distribution, sample moments. | | | |
-| 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. | | | |
+| 11 | Special continuous distributions: Normal distribution, Normal approx. to Binomial, Gamma, Exponential, and Uniform distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), [History of Random Numbers](https://tashian.com/articles/a-brief-history-of-random-numbers/)| [🔗](https://colab.research.google.com/drive/1cEV7oTgfNUfxtuJae7PYrb2TWtqGfDP4?usp=sharing)| [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
+| 12 | Joint distributions: Joint and marginal distributions. Independent r.v.s. Multinomial distribution. | | | |
+| 13 |Covariance and correlation. Conditional distributions. Conditional expectation. Conditional variance. Bivariate Normal distribution. | | | |
+| 14 | Transformations: Change of variables, sum of two random variables, convolutions.| | | |
+| 15 | Moments: Moment generating functions, summaries of a distribution, sample moments. | | | |
+| 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. Chi-square dist.| | | |
 
 **Student Learning Outcomes:** A student who completed this course successfully is expected to: 
 
