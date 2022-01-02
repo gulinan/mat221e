@@ -58,7 +58,7 @@ However, weekly class schedules are subject to change depending on the progress 
 | 11 | Special continuous distributions: Normal distribution, Normal approx. to Binomial, Gamma, Exponential, Chi-square and Uniform distributions.| [Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre), [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), [History of Random Numbers](https://tashian.com/articles/a-brief-history-of-random-numbers/)| [🔗](https://colab.research.google.com/drive/1cEV7oTgfNUfxtuJae7PYrb2TWtqGfDP4?usp=sharing)| [Random Number Generation](https://en.wikipedia.org/wiki/Random_number_generation)|
 | 12 | Joint distributions: Joint and marginal distributions. Independent r.v.s. Multinomial distribution. | | | |
 | 13 | Conditional distributions. Covariance and correlation. Conditional expectation. Conditional variance. | | [🔗](https://colab.research.google.com/drive/1DOAPXjthb778bw-TWXP-8of6aoHd5IGQ?usp=sharing#scrollTo=qH31CQCm0jb9)| |
-| 14 | Transformations: Change of variables, sum of two random variables, convolutions. **Quiz II during lecture hour.**| | | |
+| 14 | Functions of random variables. **Quiz II during lecture hour.**| | | |
 | 15 | Moments: Moment generating functions, summaries of a distribution, sample moments. | | | |
 | 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. | | | |
 
