@@ -72,7 +72,6 @@ However, weekly class schedules are subject to change depending on the progress 
 3.  Calculate basic characteristics such as mean and variance of probability distributions, and any probability
 associated with this distributions.
 4.	Use special probability distributions for modeling events.
-5.	Use limit theorems.
 
 immediately following the course, and/or a few months after the course.
 
