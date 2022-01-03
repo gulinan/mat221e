@@ -60,7 +60,6 @@ However, weekly class schedules are subject to change depending on the progress 
 | 13 | Conditional distributions. Covariance and correlation. Conditional expectation. Conditional variance. | | [🔗](https://colab.research.google.com/drive/1DOAPXjthb778bw-TWXP-8of6aoHd5IGQ?usp=sharing#scrollTo=qH31CQCm0jb9)| |
 | 14 | Functions of random variables. **Quiz II during lecture hour.**| | | |
 | 15 | Moments: Moment generating functions, summaries of a distribution, sample moments. | | | |
-| 15 | Inequalities. Limit theorems: law of large numbers and central limit theorem. | | | |
 
 **Suggested Video for Winter Break: The Galton Board**
 

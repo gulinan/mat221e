@@ -2,7 +2,7 @@ name: "Deneme"
 title: "MAT221E"
 description: |
   MAT221E
-output_dir: "_sites"
+output_dir: "/docs"
 navbar:
   search: true
   right:
